@@ -10,8 +10,6 @@ Bilgi Güvenliği Teknolojisi 2. sınıf öğrencisi, Bandırma 17 Eylül Ünive
 - 💬 Herhangi bir konuda sorularınızı sorabilirsiniz.
 - 📫 Bana ulaşmak için: muhammet_cakmak@outlook.com
 
-## YouTube Kanalım
-[YouTube](link)  <!-- Eğer bir YouTube kanalınız varsa buraya ekleyebilirsiniz -->
 
 ## Bağlantıda Kalın
 - [Twitter](https://x.com/MuhammetCkmak)
@@ -35,3 +33,5 @@ Bilgi Güvenliği Teknolojisi 2. sınıf öğrencisi, Bandırma 17 Eylül Ünive
 
 ## En Çok Kullanılan Diller
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhametcakmak&layout=compact&theme=radical)
+
+![Snake animation](https://raw.githubusercontent.com/muhametcakmak/muhametcakmak/output/github-contribution-grid-snake-dark.svg)
